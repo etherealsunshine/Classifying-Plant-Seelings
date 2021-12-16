@@ -38,10 +38,10 @@ from PIL import ImageFilter
 from collections import OrderedDict
 
 #Download dataset zip file from google drive
-!gdown https://drive.google.com/u/0/uc?id=1rrUPO3O3HumiYjesilRyeayFer8Wv4kv&export=download
+#!gdown https://drive.google.com/u/0/uc?id=1rrUPO3O3HumiYjesilRyeayFer8Wv4kv&export=download
 
 #Unzip dataset zip file
-!unzip -qq dataset.zip
+#!unzip -qq dataset.zip
 
 """A# Exploratory Data Analysis"""
 
